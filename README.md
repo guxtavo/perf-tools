@@ -202,4 +202,3 @@ Related articles:
 - 25 Jul 2014: http://www.brendangregg.com/blog/2014-07-25/opensnoop-for-linux.html
 - 23 Jul 2014: http://www.brendangregg.com/blog/2014-07-23/linux-iosnoop-latency-heat-maps.html
 - 16 Jul 2014: http://www.brendangregg.com/blog/2014-07-16/iosnoop-for-linux.html
-- 10 Jul 2014: http://www.brendangregg.com/blog/2014-07-10/perf-hacktogram.html
